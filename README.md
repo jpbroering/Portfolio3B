@@ -53,3 +53,44 @@ Coloquei essa atividade por ter uma mecanica diferente, de ter que fazer um proj
 <p align="center">
  <a href="Testes_de_Sistemas/Calculadora_GP11-master.zip"><img src="imagens/Clique aqui.png" width="125"></a>
 </p>
+
+### 2º Trimestre
+#### Banco de dados
+
+Eu coloquei essa atividade que envolveu a maior parte das coisas que aprendemos esse ano, até a parte de exportar e importar tabelas
+
+<p align="center">
+ <a href="Banco_de_Dados/atividadecurriculo"><img src="imagens/Clique aqui.png" width="125"></a>
+</p>
+
+#### Modelagem de Sistemas
+
+Coloquei essa atividade que tem sobre o conteudo mais recente(que eu estava na aula) que aprendemos
+
+<p align="center">
+ <a href="Modelagem_de_Sistemas/1fn.drawio"><img src="imagens/Clique aqui.png" width="125"></a>
+</p>
+Abaixo esta um dos resumos que tinha feito sobre modelagem de sistemas
+<p align="center">
+ <a href="Modelagem_de_Sistemas/autoriams"><img src="imagens/Clique aqui.png" width="125"></a>
+</p>
+
+#### Programação de Aplicativos
+
+Achei essa atividade incrivel por ter todas as principais atividades do trimestre no mesmo app
+
+<p align="center">
+ <a href="Programacao_de_Aplicativos/atividadefinaljs.zip"><img src="imagens/Clique aqui.png" width="125"></a>
+</p>
+Coloquei um material que usei para estudar para a prova
+<p align="center">
+ <a href="Programacao_de_Aplicativos/autoriaas"><img src="imagens/Clique aqui.png" width="125"></a>
+</p>
+
+#### Testes de Sistemas
+
+Coloquei essa atividade por ter uma mecanica diferente, de ter que fazer um projeto com defeito e o outro grupo ter que descobrir
+
+<p align="center">
+ <a href="Testes_de_Sistemas/Calculadora_GP11-master.zip"><img src="imagens/Clique aqui.png" width="125"></a>
+</p>
