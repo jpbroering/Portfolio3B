@@ -57,7 +57,7 @@ Coloquei essa atividade por ter uma mecanica diferente, de ter que fazer um proj
 ### 2º Trimestre
 #### Banco de dados
 
-Eu coloquei essa atividade que envolveu a maior parte das coisas que aprendemos esse ano, até a parte de exportar e importar tabelas
+
 
 <p align="center">
  <a href="Banco_de_Dados/atividadecurriculo"><img src="imagens/Clique aqui.png" width="125"></a>
@@ -65,32 +65,20 @@ Eu coloquei essa atividade que envolveu a maior parte das coisas que aprendemos 
 
 #### Modelagem de Sistemas
 
-Coloquei essa atividade que tem sobre o conteudo mais recente(que eu estava na aula) que aprendemos
+Coloquei essa atividade, porque, mesmo não conseguindo chegar no que queria, consegui fazer coisas diferentes, como o banco de dados com imagens. Além de ser bem organizada entre a equipe.
 
 <p align="center">
- <a href="Modelagem_de_Sistemas/1fn.drawio"><img src="imagens/Clique aqui.png" width="125"></a>
-</p>
-Abaixo esta um dos resumos que tinha feito sobre modelagem de sistemas
-<p align="center">
- <a href="Modelagem_de_Sistemas/autoriams"><img src="imagens/Clique aqui.png" width="125"></a>
+ <a href="https://github.com/jpbroering/AcademiadosCampioes"><img src="imagens/Clique aqui.png" width="125"></a>
 </p>
 
 #### Programação de Aplicativos
 
-Achei essa atividade incrivel por ter todas as principais atividades do trimestre no mesmo app
-
-<p align="center">
- <a href="Programacao_de_Aplicativos/atividadefinaljs.zip"><img src="imagens/Clique aqui.png" width="125"></a>
-</p>
-Coloquei um material que usei para estudar para a prova
-<p align="center">
- <a href="Programacao_de_Aplicativos/autoriaas"><img src="imagens/Clique aqui.png" width="125"></a>
-</p>
+Nenhum
 
 #### Testes de Sistemas
 
-Coloquei essa atividade por ter uma mecanica diferente, de ter que fazer um projeto com defeito e o outro grupo ter que descobrir
+Dentro desse sistema, é a atividade 02 - valida, coloquei ela pois foi interessante ter que concertar um sistema quebrado, levando a aula toda.
 
 <p align="center">
- <a href="Testes_de_Sistemas/Calculadora_GP11-master.zip"><img src="imagens/Clique aqui.png" width="125"></a>
+ <a href="https://github.com/jpbroering/atividadesJs"><img src="imagens/Clique aqui.png" width="125"></a>
 </p>
