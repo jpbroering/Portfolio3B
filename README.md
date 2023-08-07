@@ -2,7 +2,7 @@
 <p align="center">
  <img src="imagens/eu.jpeg" width="250">
 </p>
-eu nome é João Paulo Broering tenho 16 anos e estou cursando o ensino médio com curso tecnico integrado, a função desse diretorio é somente conter as atividades da parte de TI. Para acessar o portfólio do ensino médio padrão clique no botão abaixo
+eu nome é João Paulo Broering tenho 17 anos e estou cursando o ensino médio com curso tecnico integrado, a função desse diretorio é somente conter as atividades da parte de TI. Para acessar o portfólio do ensino médio padrão clique no botão abaixo
 
 <p align="center">
  <a href="https://sites.google.com/view/portfolio-joao-paulo-broering/in%C3%ADcio"><img src="imagens/Portfólio (1).png" width="250" alt="Sublime's custom image"></a>
@@ -60,7 +60,7 @@ Coloquei essa atividade por ter uma mecanica diferente, de ter que fazer um proj
 
 
 <p align="center">
- <a href="Banco_de_Dados/atividadecurriculo"><img src="imagens/Clique aqui.png" width="125"></a>
+ <a href="Banco_de_Dados/IC_autoria/Code.sql"><img src="imagens/Clique aqui.png" width="125"></a>
 </p>
 
 #### Modelagem de Sistemas
