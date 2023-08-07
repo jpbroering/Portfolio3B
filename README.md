@@ -58,11 +58,14 @@ Coloquei essa atividade por ter uma mecanica diferente, de ter que fazer um proj
 #### Banco de dados
 
 
-
+Consegui transformar em um codigo sql o registro das receitas feitas na Iniciação Ciêntifica, sendo uma das autorias
 <p align="center">
  <a href="Banco_de_Dados/IC_autoria/Code.sql"><img src="imagens/Clique aqui.png" width="125"></a>
 </p>
-
+Este é um resumo sobre Normalizacao de um Banco de dados, tendo todas as regras aprendidas em sala
+<p align="center">
+ <a href="Banco_de_Dados/AuteriasResumos/Normalizacao.pdf"><img src="imagens/Clique aqui.png" width="125"></a>
+</p>
 #### Modelagem de Sistemas
 
 Coloquei essa atividade, porque, mesmo não conseguindo chegar no que queria, consegui fazer coisas diferentes, como o banco de dados com imagens. Além de ser bem organizada entre a equipe.
@@ -73,7 +76,10 @@ Coloquei essa atividade, porque, mesmo não conseguindo chegar no que queria, co
 
 #### Programação de Aplicativos
 
-Nenhum
+Esta é a atividade feita em sala, onde, ela armazena todas as atividades da materia
+<p align="center">
+ <a href="https://github.com/jpbroering/atividadesJs"><img src="imagens/Clique aqui.png" width="125"></a>
+</p>
 
 #### Testes de Sistemas
 
