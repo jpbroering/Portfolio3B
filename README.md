@@ -86,5 +86,23 @@ Esta é a atividade feita em sala, onde, ela armazena todas as atividades da mat
 Dentro desse sistema, é a atividade 02 - valida, coloquei ela pois foi interessante ter que concertar um sistema quebrado, levando a aula toda.
 
 <p align="center">
+ <a href="https://github.com/jpbroering/TrackTransit"><img src="imagens/Clique aqui.png" width="125"></a>
+</p>
+
+### 2º Trimestre
+
+
+####Modelagem de Sistemas
+
+Coloquei essa atividade, porque, é a atividade final de Ti e a mais importante.
+
+<p align="center">
+ <a href="https://github.com/jpbroering/AcademiadosCampioes"><img src="imagens/Clique aqui.png" width="125"></a>
+</p>
+
+#### Programação de Aplicativos
+
+Esta é a atividade feita em sala, onde, ela armazena todas as atividades da materia
+<p align="center">
  <a href="https://github.com/jpbroering/atividadesJs"><img src="imagens/Clique aqui.png" width="125"></a>
 </p>
