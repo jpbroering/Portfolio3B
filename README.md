@@ -89,10 +89,17 @@ Dentro desse sistema, é a atividade 02 - valida, coloquei ela pois foi interess
  <a href="https://github.com/jpbroering/TrackTransit"><img src="imagens/Clique aqui.png" width="125"></a>
 </p>
 
-### 2º Trimestre
+### 3º Trimestre
 
 
-####Modelagem de Sistemas
+#### Autoria
+Foi feito o mundo senai, como foi uma atividade extensa, contando para todas as materias
+
+<p align="center">
+ <a href=""><img src="imagens/Clique aqui.png" width="125"></a>
+</p>
+
+#### Modelagem de Sistemas
 
 Coloquei essa atividade, porque, é a atividade final de Ti e a mais importante.
 
@@ -102,7 +109,7 @@ Coloquei essa atividade, porque, é a atividade final de Ti e a mais importante.
 
 #### Programação de Aplicativos
 
-Esta é a atividade feita em sala, onde, ela armazena todas as atividades da materia
+Coloquei esta atividade por ser uma atividade introdutoria em relação ao react native
 <p align="center">
- <a href="https://github.com/jpbroering/atividadesJs"><img src="imagens/Clique aqui.png" width="125"></a>
+ <a href="https://github.com/jpbroering/signin"><img src="imagens/Clique aqui.png" width="125"></a>
 </p>
