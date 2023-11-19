@@ -96,7 +96,7 @@ Dentro desse sistema, é a atividade 02 - valida, coloquei ela pois foi interess
 Foi feito o mundo senai, como foi uma atividade extensa, contando para todas as materias
 
 <p align="center">
- <a href="imagens/mundoSenai"><img src="imagens/Clique aqui.png" width="125"></a>
+ <a href="imagens/mundoSenai.mp4"><img src="imagens/Clique aqui.png" width="125"></a>
 </p>
 
 #### Modelagem de Sistemas
